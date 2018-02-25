@@ -1,0 +1,50 @@
+
+body{
+background-image:url("images/nature.jpg");
+
+    width: 100%;
+    height: auto;
+	background-repeat:no-repeat;
+}
+.container{
+
+}
+#quoite{
+font-size:35px;
+color:#d7dfff;
+padding-top: 20%;
+
+text-align:center;
+}
+#datetime{
+
+font-size:35px;
+color:#d7dfff;
+padding-top: 20%;
+
+text-align:center;
+}
+
+#quoite_div{
+	 margin-top:200px;
+	 
+	 margin-left:auto;
+
+	 margin-right:auto;
+	 background-color: rgba(131, 147, 0,.4);
+	 border-radius: 20px;
+}
+#buttons{
+	margin-top:30px;
+}
+#mail{
+	margin-top:50px;
+	color: blue;
+}
+#name{
+	color:blue;
+	size: 20px;
+}
+.fa-twitter{
+	font-size:100px;
+}
